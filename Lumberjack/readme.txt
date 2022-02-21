@@ -3,7 +3,8 @@
 / LumberjackFirmware_v2
 /	Lumberjack w/ Atmel atmega328p
 /*******************************************************************************
-	Legend: (1)	- CAPS(press), LAY1(hold)
+	Legend: 
+	    (1)	- CAPS(press), LAY1(hold)
 		(2)	- ISO-DE: ö
 		(3) 	- UC_MOD: Cycle Unicode modes: Windows (Wincompose), Windows (native), Linux
 		(4)	- ISO-DE: <>|
